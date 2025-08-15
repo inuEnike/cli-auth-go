@@ -5,6 +5,7 @@ This tool allows you to create and authenticate a superuser directly from the te
 ideal for quick setup and admin access without a UI.
 
 ## Features
+
 - Terminal-based superuser creation
 - Email & password authentication
 - Basic input validation
@@ -13,11 +14,14 @@ ideal for quick setup and admin access without a UI.
 ## Getting Started
 
 ### Prerequisites
+
 - Go 1.20+
 - Git installed
 
 ### Installation
+
 ```bash
-git clone https://github.com/your-username/go-terminal-superuser-auth.git
-cd go-terminal-superuser-auth
+git clone https://github.com/inuEnike/cli-auth-go
+cd cli-auth-go
 go run main.go
+```
